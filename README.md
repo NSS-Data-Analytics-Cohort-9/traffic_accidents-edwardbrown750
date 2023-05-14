@@ -36,4 +36,4 @@ b. Go to the "Collision Types" sheet and fill in the table to find the total num
 10. Which interstate has the most accidents between I-24, I-40, I-65, and I-440? Answer this by counting the number of accidents that contain the strings "I 24", "I 40", "I 65", or "I 440" in their Street Address. Hint: You may need to make use of [wildcards](https://support.microsoft.com/en-us/office/using-wildcard-characters-in-searches-ef94362e-9999-4350-ad74-4d2371110adb) in combination with the CONCAT function to answer this. Then do the same but search for "I24", "I40", "I65", and "I440" and then "I-24", "I-40", "I-65", and "I-440". Sum the results to get a total count. 
 
 
-GitHub Personal Token for Project: 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
+GitHub Personal Token for Project: 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
