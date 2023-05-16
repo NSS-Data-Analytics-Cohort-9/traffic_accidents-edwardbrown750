@@ -20,16 +20,16 @@ b. Are there any rows that involved zero vehicles? How many? Make sure that your
 c. Investigate the rows that have zero vehicles using the FILTER function in the "Zero Car Crashes" sheet. What do you find?  
 d. What percentage of crashes are single-car? 15.74%
 
-4. How many accidents occurred which are hit and run and had at least one injury?
+4. How many accidents occurred which are hit and run and had at least one injury? 7535
 
-5. a. What is the overall average number of injuries?  
+5. a. What is the overall average number of injuries?  0.39
 b. Go to the "Collision Types" sheet and fill in the table to find the total number of crashes, average number of injuries, and total number of injuries per collision type. For each calculation, write a single formula and copy it down the table. What do you find? (Hint: If you're not sure how to answer this question, revisit the "Conditional functions and lookups" chapter of [Data Analysis in Spreadsheets](https://app.datacamp.com/learn/courses/data-analysis-in-spreadsheets).)
 
 6. Add four new columns, Month, Year, Hour, and Weekday to the right of the Date and Time column. Use the [TEXT function](https://support.microsoft.com/en-us/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c) to extract out the Month, Year, Hour, and Weekday from the "Date and Time" column.  
 
 7. Fill in the Hour table in the Analysis spreadsheet to find the number of accidents that occurred for each hour of the day. Again, write a single formula and copy it down the table. Do you see anything unusual? What might be the explanation for this?
 
-8. Do the same for the year and day of the week. What stands out?
+8. Do the same for the year and day of the week. What stands out? Sharp drop off in accidents from 2000-2022
 
 9. Add a column to the right of the Collision Type Code called "Collision Type". Use the table contained in the Collision Types sheet to fill in this column. 
 
